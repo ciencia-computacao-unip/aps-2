@@ -21,3 +21,5 @@ Repositório da APS de Ciência da Computação da Unip, segundo Semestre
 - [ ] Organizar o que cada um vai fazer
 - [ ] Não esquecer de postar o código aqui no github
 - [ ] Fazer mais tasks...
+
+- [ ] Encontrar um meio de conversar rapidamente com todo mundo
